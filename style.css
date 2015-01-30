@@ -1,0 +1,23 @@
+/*
+Theme Name: RBP Single Page
+Author: Happy Collision
+Author URI: http://happycollision.com/
+Description: Just a Picture
+Version: 1
+*/
+		/* General page styles
+		================================================== */
+			body{
+				background:#fff;
+			}
+
+			div[role="main"] {
+				max-width:800px;
+				width:100%;
+				margin:12px auto;
+				position:relative;
+			}
+			div img {
+				width:100%;
+			}
+

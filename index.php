@@ -1,0 +1,19 @@
+<!doctype html>
+<head>
+<title>Reel Badd Productions</title>
+  <meta name="description" content="">
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <div role="main" class="clearfix">
+	<img src="Reel-Badd-Logo.gif" alt="Reel Badd Productions Logo" />
+  </div><!--role:main-->
+
+
+</body>
+</html>
